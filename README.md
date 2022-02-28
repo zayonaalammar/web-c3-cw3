@@ -1,5 +1,5 @@
 <p dir="rtl">
-<strong>تمرين</strong> (this should be in github so just attach a github link)</p>
+<strong><a href="https://github.com/kuwaitcodes/web-c3-cw3">تمرين</a></strong></p>
 
 </p>
 <p>
@@ -18,13 +18,13 @@
 
 <li>قم بإنشاء ملف index.html)    HTML )
 
-<li>قم بإنشاء ملف الـ style.css)   CSS)
+<li>قم بإنشاء ملف الـ style.css)   CSS)     
 
 <li>اربط صفحة CSS ب ال HTML
 
 <li>أنشئ وسم &lt;h1> و اكتب "اسمك"
 
-<li>أنشئ " class = "text-color واضف لون خلفية ونص لوسم  ال h1
+<li>أنشئ " class = "text-color واضف لون خلفية ونص لوسم  ال h1 
 
 <li>أنشئ وسم &lt;p> واكتب "مرحبا بكم في موقعنا"
 
