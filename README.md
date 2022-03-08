@@ -1,46 +1,21 @@
-<p dir="rtl">
-<strong><a href="https://github.com/kuwaitcodes/web-c3-cw3">تمرين</a></strong></p>
+# تمرين 
 
-</p>
-<p>
-<p dir="rtl">
-نبي نتعرف عليك اكثر من هذا التمرين</p>
+1. نبي نتعرف عليك اكثر من هذا التمرين
+2. قم بعمل fork للـ repository
+3. انسخ الrepository على جهازك
+4. افتح برنامج visual studio code وافتح مجلد الrepository
+5. قم بإنشاء ملف index.html)    HTML )
+6. قم بإنشاء ملف الـ style.css)   CSS)     
+7.اربط صفحة CSS ب ال HTML
+8.أنشئ وسم h1 واكتب "اسمك "
+9. أنشئ " class = "text-color واضف لون خلفية ونص لوسم  ال h1 
+10. انشى وسم p واكتب "مرحبا بكم في موقعنا"
+11.واضف لون للنص باستخدام الـ "id = "color
+12. ذهب الى موقع google fonts اختر احد الخطوط العربية
+13.استورد الخط على صفحة html
+14.استخدم الخط الذي تم استيراده على عنصر ال h1
+15. غير وزن الخط لعنصر الp
 
-</p>
-<ol>
-
-<li>
-قم بعمل fork للـ repository
-
-<li>انسخ الrepository على جهازك
-
-<li>افتح برنامج visual studio code وافتح مجلد الrepository
-
-<li>قم بإنشاء ملف index.html)    HTML )
-
-<li>قم بإنشاء ملف الـ style.css)   CSS)     
-
-<li>اربط صفحة CSS ب ال HTML
-
-<li>أنشئ وسم &lt;h1> و اكتب "اسمك"
-
-<li>أنشئ " class = "text-color واضف لون خلفية ونص لوسم  ال h1 
-
-<li>أنشئ وسم &lt;p> واكتب "مرحبا بكم في موقعنا"
-
-<li> واضف لون للنص باستخدام الـ "id = "color
-<p>
-<p dir="rtl">
-<strong>بونص:</strong></p>
-
-</p>
-<p>
-<p dir="rtl">
-استخدم اكثر من class لنفس الوسم </p>
-
-</p>
-<p>
-<p dir="rtl">
-</p>
-
-</p>
+### بونص:
+1- انشئ class اخر لعنصر الp واستخدمة لتجعل الكلام يظهر بالمنتصف
+  
